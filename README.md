@@ -1,16 +1,13 @@
-## Hi there 👋
+# 💫 About Me:
+🎯 Entry-Level Software Developer | Java, Spring Boot, Python | AI/ML Enthusiast<br><br>Hi, I’m Fathima Hana, an aspiring software developer with a solid foundation in Java, Python, and C++. I hold a Master's in Computer Applications from VIT and a B.Sc in Computer Science.<br><br>I’ve built a variety of projects, including:<br>• Defect detection system for welded metal structures using YOLOv8 and OpenCV.<br>• Sales prediction model leveraging Linear Regression to optimize marketing strategies.<br>• Arduino-based robotic car with line-following and obstacle avoidance.<br><br>🏆 Achievements:<br>• Winner - Crack the Code (MGR Janaki College)<br>• Runner-Up - Codeathon (Ethiraj College)<br>• Winner - Find the Bug (solo, 86 teams) (MOP Vaishnav College)<br><br>📚 Academic Achievements:<br>• All India Rank 204 in VITMEE 2023 MCA Entrance Exam<br>• Top 7% - TANCET MCA Entrance Exam<br>• Subject Topper in Computer Science (Class X & XII)<br><br>🌍 Languages: English, Hindi, Malayalam, Urdu, Tamil<br><br>🌱 Seeking: Software Developer opportunities
 
-<!--
-**fathimahana-ks/fathimahana-ks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Fathima Hana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fathimahanaks@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=fathimahana-ks&icon=0&color=0)](https://visitcount.itsvg.in)
