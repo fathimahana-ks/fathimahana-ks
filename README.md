@@ -1,6 +1,34 @@
-# Hi, I'm Fathima ✨
+Hi! Welcome to my GitHub landing page!  
 
-An aspiring software developer with a solid foundation in Java, Python, and C++. I hold a Master's in Computer Applications from VIT and a B.Sc in Computer Science.<br><br>I’ve built a variety of projects, including:<br>🛠 **Defect Detection System** – Identified defects in welded metal structures using **YOLOv8** and **OpenCV**.  <br> 📊 **Sales Prediction Model** – Developed a Linear Regression model to optimize marketing strategies.  <br> 🤖 **Arduino Robotic Car** – Built a line-following, obstacle-avoiding robot using **C/C++** and Arduino.<br><br>🏆 Achievements:<br>• Winner - Crack the Code (MGR Janaki College)<br>• Runner-Up - Codeathon (Ethiraj College)<br>• Winner - Find the Bug (solo, 86 teams) (MOP Vaishnav College)<br><br>📚 Academic Milestones:<br>• All India Rank 204 in VITMEE 2023 MCA Entrance Exam<br>• Top 7% - TANCET MCA Entrance Exam<br>• Subject Topper in Computer Science (Class X & XII)<br><br>🌍 Languages: English, Hindi, Malayalam, Urdu, Tamil<br><be>
+I’m Fathima, an aspiring software developer with a love for building cool things with code. I hold a Master’s in Computer Applications from VIT and a B.Sc in Computer Science.
+
+I started out exploring all kinds of tech, but found myself especially drawn to software development and AI—and haven’t looked back since!
+
+👩‍🏫 Alongside my studies, I’ve been working as a coding instructor for the past 5 years, teaching kids from all over the world how to code. It’s been one of the most rewarding parts of my journey so far.
+
+🛠 **Projects I’ve worked on:**  
+• Defect Detection System – Used YOLOv8 and OpenCV to spot defects in welded metal structures.  
+• Sales Prediction Model – Built a Linear Regression model to predict and optimize marketing strategies.  
+• Arduino Robotic Car – Designed a line-following, obstacle-avoiding robot using C++ and Arduino Uno.
+
+🏆 **A few proud moments:**  
+• 🥇 Winner – Crack the Code (MGR Janaki College)  
+• 🥇 Solo Winner (against 86 teams) – Find the Bug (MOP Vaishnav College)  
+• 🏅 State Rank 70 – Silverzone Informatics Olympiad 2019
+
+📚 **Academic highlights:**  
+• Distinction – Master’s Degree (MCA), VIT Chennai  
+• AIR 204 – VITMEE 2023 MCA Entrance  
+• Top 7% – TANCET MCA Entrance  
+• Subject Topper – Computer Science (Class X & XII)
+
+🌍 I speak English, Hindi, Malayalam, Urdu, and Tamil.
+
+💬 Feel free to reach out to chat about projects, placements, or anything tech-y!  
+✉️ fathimahanaks@gmail.com
+
+⚡ Fun fact: I once taught robotics and coding to students from 10+ countries—and they taught *me* just as much in return.
+
 
 
 ## 📊 GitHub Stats:
