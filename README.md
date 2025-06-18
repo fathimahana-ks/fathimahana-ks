@@ -1,4 +1,4 @@
-Hi! Welcome to my GitHub landing page!  
+# Hi! Welcome to my GitHub landing page!  
 
 I’m Fathima, an aspiring software developer with a love for building cool things with code. I hold a Master’s in Computer Applications from VIT and a B.Sc in Computer Science.
 
