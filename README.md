@@ -19,7 +19,7 @@ I started out exploring all kinds of tech, but found myself especially drawn to 
 📚 **Academic highlights:**  
 • Distinction – Master’s Degree (MCA), VIT Chennai  
 • AIR 204 – VITMEE 2023 MCA Entrance Exam  
-• Top 7% – TANCET MCA Entrance Exam 
+• Top 7% – TANCET MCA Entrance Exam             
 • Subject Topper – Computer Science (Class X & XII)
 
 🌍 I speak English, Hindi, Malayalam, Urdu, and Tamil.
