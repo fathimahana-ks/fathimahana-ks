@@ -68,7 +68,7 @@ I started out exploring all kinds of tech, but found myself especially drawn to 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fathimahana-ks&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathimahana-ks&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathimahana-ks&hide=jupyter%20notebook&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 
