@@ -9,7 +9,7 @@
   <a href="mailto:fathimahanaks@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-# Hi, Welcome to my GitHub landing page!  
+## Welcome to my GitHub landing page!  
 
 I’m Fathima, an aspiring software developer with a love for building cool things with code. I hold a Master’s in Computer Applications from VIT and a B.Sc in Computer Science.
 
