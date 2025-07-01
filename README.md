@@ -40,12 +40,13 @@ I started out exploring all kinds of tech, but found myself especially drawn to 
 
 ⚡ Fun fact: I once taught robotics and coding to students from 10+ countries—and they taught *me* just as much in return.
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fathimahana-ks&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
+
+## 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -54,14 +55,14 @@ I started out exploring all kinds of tech, but found myself especially drawn to 
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=athimahana-ks&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athimahana-ks&hide_border=true&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fathimahana-ks&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathimahana-ks&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
+
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athimahana-ks&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathimahana-ks&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
-
 
 <!-- Snake Game Repo View -->
 
@@ -70,8 +71,7 @@ I started out exploring all kinds of tech, but found myself especially drawn to 
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=athimahana-ks&theme=gruvbox_light&no-frame=false&no-bg=true&margin-w=4)
-
+![](https://github-profile-trophy.vercel.app/?username=fathimahana-ks&theme=gruvbox_light&no-frame=true&no-bg=true&margin-w=4)
 
 
 ## 🌐 Socials:
