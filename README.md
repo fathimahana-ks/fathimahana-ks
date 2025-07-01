@@ -73,7 +73,7 @@ I started out exploring all kinds of tech, but found myself especially drawn to 
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathimahana-ks&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=fathimahana-ks&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <!-- Snake Game Repo View -->
@@ -93,3 +93,9 @@ I started out exploring all kinds of tech, but found myself especially drawn to 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fathimahana-ks&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+
+
