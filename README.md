@@ -76,7 +76,6 @@ I started out exploring all kinds of tech, but found myself especially drawn to 
   <img src="https://nirzak-streak-stats.vercel.app/?user=fathimahana-ks&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
-<!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
